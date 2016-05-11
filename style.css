@@ -1,0 +1,16 @@
+html, body {
+  background-image: url('http://wallpaperlayer.com/img/2015/9/pixel-wallpaper-background-8221-8538-hd-wallpapers.jpg');
+  font-weight: 100;
+  color: #FFF;
+  margin: 0 auto;
+  font-family: Arial;
+}
+
+h1{
+	text-align: center;
+	font-size: 3em;
+}
+
+.info {
+	text-align: center;
+}
